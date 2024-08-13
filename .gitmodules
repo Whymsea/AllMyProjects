@@ -1,3 +1,6 @@
 [submodule "Vague"]
 	path = Vague
 	url = https://github.com/Whymsea/SAE501LOOM.git
+[submodule "BundleNumero"]
+	path = BundleNumero
+	url = https://github.com/Whymsea/BundleNumero.git
