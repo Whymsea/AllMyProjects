@@ -4,3 +4,6 @@
 [submodule "BundleNumero"]
 	path = BundleNumero
 	url = https://github.com/Whymsea/BundleNumero.git
+[submodule "VivlioMedia"]
+	path = VivlioMedia
+	url = https://github.com/Whymsea/VivlioMedia.git
